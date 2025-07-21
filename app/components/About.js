@@ -9,7 +9,7 @@ export default function About() {
           <div className="lg:sticky lg:top-32">
             <h2 className="text-6xl lg:text-7xl font-bold text-emerald-800 mb-8 font-display leading-tight">
               Hello,<br />
-              I'm Prama Ray !
+              I&apos;m Prama Ray !
             </h2>
             
             <p className="text-lg text-gray-700 mb-8 leading-relaxed">

@@ -42,7 +42,7 @@ export default function Projects() {
             Projects
           </h2>
           <div className="text-lg text-gray-600">
-            Below are some of the projects I've crafted over time.
+            Below are some of the projects I&apos;ve crafted over time.
           </div>
         </div>
 

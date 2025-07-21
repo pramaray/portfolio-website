@@ -43,25 +43,25 @@ export default function Hero() {
                     <div className="pl-4 text-emerald-300">
                       <span className="text-orange-400">name</span>
                       <span className="text-white">: </span>
-                      <span className="text-green-300">"Prama Ray"</span>
+                      <span className="text-green-300">&quot;Prama Ray&quot;</span>
                       <span className="text-white">,</span>
                     </div>
                     <div className="pl-4 text-emerald-300">
                       <span className="text-orange-400">role</span>
                       <span className="text-white">: </span>
-                      <span className="text-green-300">"Full-Stack Developer"</span>
+                      <span className="text-green-300">&quot;Full-Stack Developer&quot;</span>
                       <span className="text-white">,</span>
                     </div>
                     <div className="pl-4 text-emerald-300">
                       <span className="text-orange-400">passion</span>
                       <span className="text-white">: </span>
-                      <span className="text-green-300">"Creating Digital Art"</span>
+                      <span className="text-green-300">&quot;Creating Digital Art&quot;</span>
                       <span className="text-white">,</span>
                     </div>
                     <div className="pl-4 text-emerald-300">
                       <span className="text-orange-400">skills</span>
                       <span className="text-white">: [</span>
-                      <span className="text-green-300">"Code", "Design", "Innovation"</span>
+                      <span className="text-green-300">&quot;Code&quot;, &quot;Design&quot;, &quot;Innovation&quot;</span>
                       <span className="text-white">]</span>
                     </div>
                     <div className="text-white">{`};`}</div>

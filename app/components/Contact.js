@@ -16,11 +16,11 @@ export default function Contact() {
       <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-5xl lg:text-6xl font-bold text-emerald-800 mb-6 font-display">
-            Let's Work Together!
+            Let&apos;s Work Together!
           </h2>
           <p className="text-lg text-gray-700 max-w-2xl mx-auto">
             Have a project in mind or want to collaborate? 
-            I'd love to hear from you. Drop me a message!
+            I&apos;d love to hear from you. Drop me a message!
           </p>
         </div>
 
