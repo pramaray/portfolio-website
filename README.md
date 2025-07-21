@@ -55,25 +55,11 @@ The contact form is ready for integration with:
 - **EmailJS**
 - Custom backend API
 
-## Deployment on Vercel
-
-1. **Push your code to GitHub**
-2. **Connect your GitHub repo to Vercel**:
-   - Go to [vercel.com](https://vercel.com)
-   - Click "New Project"
-   - Import from GitHub
-   - Select your portfolio repository
-
-3. **Deploy**:
-   - Vercel will automatically build and deploy your site
-   - You'll get a live URL that you can share
-
 ## Technology Stack
 
 - **Framework**: Next.js 15
 - **Styling**: Tailwind CSS
 - **Language**: JavaScript
-- **Deployment**: Vercel (recommended)
 
 ## Project Structure
 
@@ -94,23 +80,3 @@ portfolio-website/
 ├── package.json
 └── README.md
 ```
-
-## Next Steps
-
-1. **Customize content** with your personal information
-2. **Add your projects** with real project data and images
-3. **Update skills** to match your expertise
-4. **Test responsiveness** on different devices
-5. **Deploy to Vercel** for a live website
-6. **Set up contact form** integration
-7. **Add Google Analytics** (optional)
-8. **Connect your domain** (optional)
-
-## Need Help?
-
-If you need help customizing or deploying your portfolio:
-1. Check the [Next.js Documentation](https://nextjs.org/docs)
-2. Visit [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-3. Review [Vercel Deployment Guide](https://vercel.com/docs)
-
-Happy coding! 🚀
